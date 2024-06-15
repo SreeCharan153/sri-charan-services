@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sri-charan-services/static/css/main.60350bce.css",
+    "main.js": "/sri-charan-services/static/js/main.5c1d5e0f.js",
+    "static/js/453.a6753820.chunk.js": "/sri-charan-services/static/js/453.a6753820.chunk.js",
+    "index.html": "/sri-charan-services/index.html",
+    "main.60350bce.css.map": "/sri-charan-services/static/css/main.60350bce.css.map",
+    "main.5c1d5e0f.js.map": "/sri-charan-services/static/js/main.5c1d5e0f.js.map",
+    "453.a6753820.chunk.js.map": "/sri-charan-services/static/js/453.a6753820.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60350bce.css",
+    "static/js/main.5c1d5e0f.js"
+  ]
+}
